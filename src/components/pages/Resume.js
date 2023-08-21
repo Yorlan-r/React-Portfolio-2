@@ -8,7 +8,7 @@ export default function Home() {
           <h3>Resume</h3>
           
           <p>
-            Click <a href="Resume.pdf" target="_blank">here</a> to view Resume!
+            Click <a href="Updated Resume.pdf" target="_blank">here</a> to view Resume!
           </p>
           
         </div>
